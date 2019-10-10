@@ -33,6 +33,8 @@ This is an example exercise.
 
 `@solution`
 ```{python}
+obj = 1
+
 
 ```
 

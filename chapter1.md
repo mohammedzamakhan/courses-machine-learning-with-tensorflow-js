@@ -3,6 +3,19 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
+## Let's learn
+
+```yaml
+type: VideoExercise
+key: 3a249b006a
+xp: 50
+```
+
+`@projector_key`
+f9f93901a0e9d44493e78fef56bb1226
+
+---
+
 ## Example coding exercise
 
 ```yaml

@@ -170,12 +170,14 @@ xp: 50
 
 `@sample_code`
 ```{python}
-____ from 'scikit.learn'
+c = 10
 ```
 
 `@solution`
 ```{python}
-scikit from 'scikit.learn'
+c = 10
+
+print(c)
 ```
 
 `@sct`
@@ -203,14 +205,16 @@ xp: 50
 
 `@sample_code`
 ```{python}
-scikit from 'scikit.learn'
-
-scikit.learn()
+c = 10
+c = ____
+print(c)
 ```
 
 `@solution`
 ```{python}
-
+c = 10
+c = c / 2
+print(c)
 ```
 
 `@sct`

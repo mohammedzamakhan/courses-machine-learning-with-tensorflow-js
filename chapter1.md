@@ -170,12 +170,12 @@ xp: 50
 
 `@sample_code`
 ```{python}
-
+____ from 'scikit.learn'
 ```
 
 `@solution`
 ```{python}
-
+scikit from 'scikit.learn'
 ```
 
 `@sct`
@@ -203,7 +203,9 @@ xp: 50
 
 `@sample_code`
 ```{python}
+scikit from 'scikit.learn'
 
+scikit.learn()
 ```
 
 `@solution`

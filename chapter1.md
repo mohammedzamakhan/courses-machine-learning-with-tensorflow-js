@@ -29,10 +29,19 @@ skills: 2
 This is an example exercise.
 
 `@instructions`
+Let's look at the code here and 
 
+
+# WOW
+
+## Yes
+
+### No No
 
 `@hint`
+java is tough and we need to make it clear and 
 
+# wiw
 
 `@pre_exercise_code`
 ```{python}
